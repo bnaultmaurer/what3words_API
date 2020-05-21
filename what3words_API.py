@@ -5,7 +5,7 @@ import csv
 
 ##### define inputs #####
 # define API key
-api_key = "JBY0UH4P"
+api_key = "INSERT_KEY_HERE"
 
 input_file = 'mn_county_centroids.txt'
 output_file ='mn_county_centroids_out.csv'
