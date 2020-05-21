@@ -1,7 +1,6 @@
 import what3words
 import pandas as pd
 import numpy as np
-import csv
 import sys
 
 ##### define inputs #####
