@@ -2,15 +2,15 @@ import what3words
 import pandas as pd
 import numpy as np
 import csv
+import sys
 
 ##### define inputs #####
-# define API key
-api_key = "INSERT_KEY_HERE"
-
 input_file = 'mn_county_centroids.txt'
 output_file ='mn_county_centroids_out.csv'
 ##### inputs complete #####
 
+# request API key
+api_key = input('Input what3words API key: ')
 
 # connect to public API
 geocoder = what3words.Geocoder(api_key)
