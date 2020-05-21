@@ -15,6 +15,7 @@ geocoder = what3words.Geocoder(api_key)
 
 # read in set of coordinates
 df = pd.read_csv(input_file, sep = '\t', skiprows = 1, names = ('stand', 'long', 'lat'))
+df['what3words'] = None
 
 # iterate through values
 for index, row in df.head(5).iterrows():
@@ -23,4 +24,5 @@ for index, row in df.head(5).iterrows():
 
     # convert coordinates to what3words
     res = geocoder.convert_to_3wa(what3words.Coordinates(df['lat'][index], df['long'][index]))
-    print(res['words'])
+    df['what3words'][index] = res['words']
+    #print(res['words'], df['what3words'][index])
