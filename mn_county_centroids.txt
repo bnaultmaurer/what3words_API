@@ -1,0 +1,94 @@
+County	longitude    latitude
+Aitkin	-93.43	46.655
+Anoka	-93.265	45.225
+Becker	-95.68	46.935
+Beltrami	-95.005	47.98
+Benton	-94.055	45.69
+Big Stone	-96.465	45.38
+Blue Earth	-94.065	44.055
+Brown	-94.24	44.3
+Carlton	-92.675	46.59
+Carver	-93.765	44.81
+Cass	-94.29	46.88
+Chippewa	-95.63	44.95
+Chisago	-92.89	45.51
+Clay	-96.495	46.94
+Clearwater	-95.38	47.585
+Cook	-90.265	47.725
+Cottonwood	-95.165	44.02
+Crow Wing	-94.085	46.48
+Dakota	-93.03	44.7
+Dodge	-92.86	44.02
+Douglas	-95.45	45.93
+Faribault	-93.945	43.675
+Fillmore	-92.085	43.675
+Freeborn	-93.345	43.67
+Goodhue	-92.635	44.45
+Grant	-96.01	45.93
+Hennepin	-93.47	45.015
+Houston	-91.47	43.675
+Hubbard	-94.915	47.105
+Isanti	-93.26	45.575
+Itasca	-93.73	47.455
+Jackson	-95.155	43.67
+Kanabec	-93.285	45.94
+Kandiyohi	-95.005	45.15
+Kittson	-96.8	48.77
+Koochiching	-93.755	48.28
+Lac qui Parle	-96.1	45.035
+Lake	-91.41	47.565
+Lake of the Woods	-94.895	48.875
+Le Sueur	-93.775	44.37
+Lincoln	-96.265	44.415
+Lyon	-95.835	44.415
+McLeod	-94.255	44.805
+Mahnomen	-95.81	47.32
+Marshall	-96.375	48.355
+Martin	-94.55	43.675
+Meeker	-94.505	45.11
+Mille Lacs	-93.62	45.9
+Morrison	-94.21	46.065
+Mower	-92.745	43.67
+Murray	-95.765	44.02
+Nicollet	-94.35	44.305
+Nobles	-95.75	43.675
+Norman	-96.455	47.325
+Olmsted	-92.38	44.015
+Otter Tail	-95.71	46.41
+Pennington	-96.045	48.05
+Pine	-92.715	46.07
+Pipestone	-96.26	44.02
+Polk	-96.34	47.835
+Pope	-95.44	45.595
+Ramsey	-93.105	45.005
+Red Lake	-96.095	47.865
+Redwood	-95.235	44.445
+Renville	-94.98	44.675
+Rice	-93.28	44.37
+Rock	-95.755	43.67
+Roseau	-95.745	48.775
+St. Louis	-92.375	47.5
+Scott	-93.595	44.68
+Sherburne	-93.83	45.405
+Sibley	-94.195	44.585
+Stearns	-94.59	45.53
+Steele	-93.225	44.02
+Stevens	-96	45.585
+Swift	-95.68	45.28
+Todd	-94.895	46.07
+Traverse	-96.555	45.795
+Wabasha	-92.205	44.28
+Wadena	-94.95	46.59
+Waseca	-93.585	44.02
+Washington	-92.88	45.02
+Watonwan	-94.61	43.98
+Wilkin	-96.515	46.325
+Winona	-91.78	44.015
+Wright	-93.885	45.2
+Yellow Medicine	-95.91	44.73
+#VALUE!	-96.69	62.455
+#VALUE!	-89.51	39.75
+#VALUE!	-93.395	41.94
+#VALUE!	-100.305	47.47
+#VALUE!	-100.25	44.21
+#VALUE!	-89.845	44.785
