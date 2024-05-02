@@ -26,4 +26,4 @@ for index, row in df.iterrows():
     df['what3words'][index] = res['words']
 
 # write dataframe to file
-df.to_csv(output_file)
+df.to_csv(output_file, index=False)
